@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sector 17",
+    "description": "Very dense crowd reported here.",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "intensity": 1.0
+  },
+  {
+    "name": "Main Ghat",
+    "description": "Moderate crowd.",
+    "latitude": 28.615,
+    "longitude": 77.212,
+    "intensity": 0.6
+  }
+]

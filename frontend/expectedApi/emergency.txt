@@ -1,0 +1,15 @@
+// Replace this mock API call with your actual backend endpoint
+const response = await fetch(`${process.env.REACT_APP_API_BASE_URL}/api/heatmap-predictions`);
+// Your backend should return data in this format:
+{
+  heatmapData: [
+    {
+      lat: 51.505,
+      lng: -0.09,
+      density: 85,           // Crowd density percentage
+      radius: 800,           // Coverage area in meters
+      risk_level: 'high',    // critical, high, medium, low
+      area_name: 'Westminster'
+    }
+  ]
+}
