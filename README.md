@@ -11,7 +11,7 @@ This app uses many techniques and algorithms to predict future crowd patterns in
 - `React`
 - `Vite`
 
-## Crowd Simulation with Heatmaps - Gaussian filter
+## Crowd Simulation with Heatmaps - Gaussian filter..
 Crowd movement simulation using python numpy and plotting those movement with the help of matplotlib where the blue dots represent the people and the black dots represent the obstacles such as vehicles, walls etc. The crowd is represented internally with the use of 2D Array. `Cumulative heatmap` generation using `gaussian filter` where the less dense areas are represented in black and more densely populated areas are represented by bright red.<br><br>
 ![Simulation heatmap](images/simulation-heatmap.png)
 
